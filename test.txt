@@ -1,0 +1,8 @@
+catalog: 
+  maxid: 4
+  login [username="pytest" passwd="123456"]: dasdas
+    caption: Python
+    item [id="4"]:
+      caption: 测试
+  item [id="2"]:
+    caption: Zope

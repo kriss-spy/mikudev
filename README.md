@@ -18,8 +18,4 @@ like a toolbox
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
 for some features like vocaloid LLM that runs locally, you need deep learning libs, see requirements.txt for reference
-```

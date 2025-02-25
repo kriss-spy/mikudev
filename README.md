@@ -15,7 +15,14 @@ like a toolbox
 * [X] simple vocaloid AI using existing LLMs and prompt engineering (too simple)
 * [ ] cool vocaloid AI of my own
 * [ ] a certain app based on vocaloid-database, focus on frontend and user experience
+* [ ] legal and satisfying miku voice clone
 
 ### Prerequisites
 
 for some features like vocaloid LLM that runs locally, you need deep learning libs, see requirements.txt for reference
+
+## Good Examples
+
+[Open LLM Vtuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/blob/main/README.CN.md)
+
+[desktop mate](https://www.desktop-mate.com/)

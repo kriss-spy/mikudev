@@ -26,3 +26,5 @@ for some features like vocaloid LLM that runs locally, you need deep learning li
 [Open LLM Vtuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/blob/main/README.CN.md)
 
 [desktop mate](https://www.desktop-mate.com/)
+
+[vocaloid database](https://github.com/VocaDB/vocadb)
